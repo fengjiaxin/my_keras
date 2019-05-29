@@ -1,0 +1,20 @@
+Using TensorFlow backend.
+INFO:root:--------------------begin construct data------------------
+INFO:root:start generate train val test data
+INFO:root:end generate train val test data
+WARNING:tensorflow:From /home/fengjiaxin/fengjiaxin/anaconda3/envs/my-rdkit-env/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From /home/fengjiaxin/fengjiaxin/anaconda3/envs/my-rdkit-env/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:model begin define
+INFO:root:model begin compile
+INFO:root:model begin train
+WARNING:tensorflow:From /home/fengjiaxin/fengjiaxin/anaconda3/envs/my-rdkit-env/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /home/fengjiaxin/fengjiaxin/anaconda3/envs/my-rdkit-env/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+Epoch 1/5
